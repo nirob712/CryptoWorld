@@ -2,7 +2,6 @@ import React from "react";
 import { Switch, Route, Link } from "react-router-dom";
 import { Layout, Typography, Space } from "antd";
 import "antd/dist/antd.min.css";
-
 import {
   Navbar,
   Exchanges,
